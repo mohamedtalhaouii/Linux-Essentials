@@ -382,8 +382,6 @@
 
 ### Shell Scripting
 
-#### Writing a Shell Script
-
 1. **Create a new file**: 
    ```bash
    touch script.sh
