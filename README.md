@@ -2,9 +2,9 @@
 
 Welcome to the Linux commands and shell scripting guide. This guide is available in multiple languages:
 
-- [Guide des Commandes Linux (Français)](commands(fr).md)
-- [Linux Commands Guide (English)](commands(en).md)
-- [Installation Guide](install.md)
+- [Guide des Commandes Linux (Français)](Commands(FR).md)
+- [Linux Commands Guide (English)](Commands(EN).md)
+- [Installation Guide](Install.md)
 
 ## Introduction
 
