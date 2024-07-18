@@ -24,6 +24,5 @@ Feel free to contribute by adding new commands, correcting errors, or improving 
 
 For more details on each command or additional tutorials, refer to the specific guides included in this repository.
 
----
-
-Thank you for using this guide to learn and master essential Linux commands and shell scripting!
+<hr>
+<h3 align="center"> 🧑🏻‍💻 | Made By : <a href="https://github.com/mohamedtalhaouii" target="_blank">Mohamed Talhaoui</a></h3>
